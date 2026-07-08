@@ -31,7 +31,7 @@ Python/
 ├── Day_2_Operators/
 ├── Day_3_TopicsRevision/
 ├── Day_4_Conditionals/
-├── Day_5/
+├── Day_5_Loops/
 └── README.md
 ```
 ## Progress
@@ -39,7 +39,8 @@ Python/
 - Completed Day 2 – Operators
 - Completed Day 3 – String Operations and Practice Programs
 - Completed Day 4 – Conditional Statements
-- Currently Learning – Loops
+- Completed Day 5 - Loops
+- Currently Learning – Patterns(using Nested loops)
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
