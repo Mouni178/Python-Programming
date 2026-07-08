@@ -1,5 +1,5 @@
 #Example-1
-'''marks=int(input("Enter your marks:"))
+marks=int(input("Enter your marks:"))
 if marks>=90:
     print("Grade is A+")
 elif marks>=75:
@@ -10,9 +10,9 @@ elif marks>=30:
     print("Grade is c")
 else:
     print("Fail")
-print()'''
+print()
 #Example-2
-'''day=3
+day=3
 if day==1:
     print("Monday")
 elif day==2:
@@ -21,10 +21,9 @@ elif day==3:
     print("Wednesday")
 else:
     print("Invalid Day")
-print()'''
+print()
 #Example-3
 signal="Green"
-
 if signal=="Red":
     print("Stop")
 elif signal=="Yellow":
