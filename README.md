@@ -1,5 +1,12 @@
 # Python Programming
-This repository contains my daily Python practice and projects as I learn Python from beginner to advanced.
+This repository contains my daily Python practice programs, notes, and mini projects as I learn Python from beginner to advanced.
+
+## Overview
+The purpose of this repository is to:
+- Learn Python programming concepts.
+- Practice coding regularly.
+- Improve problem-solving skills.
+- Build a strong foundation for software development.
 ## Topics Covered
 - Variables
 - Data Types
@@ -8,22 +15,32 @@ This repository contains my daily Python practice and projects as I learn Python
 - Operators
 - String Operations
 - Conditional Statements
-- Loops
-- Functions
-- Object-Oriented Programming (Coming Soon)
+- Loops (In Progress)
+- Functions (Coming Soon)
+- Lists (Coming Soon)
+- Tuples (Coming Soon)
+- Dictionaries (Coming Soon)
+- Sets (Coming Soon)
 - File Handling (Coming Soon)
+- Exception Handling (Coming Soon)
+- Object-Oriented Programming (Coming Soon)
 ## Folder Structure
 ```
 Python/
-├── Day_1
-├── Day_2
-├── Day_3
+├── Day_1_Basics/
+├── Day_2_Operators/
+├── Day_3_TopicsRevision/
+├── Day_4_Conditionals/
+├── Day_5/
+└── README.md
 ```
-## Current Progress
-- Completed Day 1
-- Completed Day 2
-- Completed Day 3
-More programs and projects will be added regularly.
+## Progress
+- Completed Day 1 – Python Basics
+- Completed Day 2 – Operators
+- Completed Day 3 – String Operations and Practice Programs
+- Completed Day 4 – Conditional Statements
+- Currently Learning – Loops
+New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
 - Visual Studio Code
@@ -31,5 +48,5 @@ More programs and projects will be added regularly.
 - GitHub
 ## Author
 **Potthalam Mounika**
-- GitHub: https://github.com/Mouni178
-- LinkedIn: https://www.linkedin.com/in/mounika-potthalam-30b69731b
+GitHub: https://github.com/Mouni178
+LinkedIn: https://www.linkedin.com/in/mounika-potthalam-30b69731b
