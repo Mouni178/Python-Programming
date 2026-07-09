@@ -15,7 +15,7 @@ The purpose of this repository is to:
 - Operators
 - String Operations
 - Conditional Statements
-- Loops (In Progress)
+- Loops 
 - Functions (Coming Soon)
 - Lists (Coming Soon)
 - Tuples (Coming Soon)
@@ -32,6 +32,7 @@ Python/
 ├── Day_3_TopicsRevision/
 ├── Day_4_Conditionals/
 ├── Day_5_Loops/
+├── Day_6_Patterns/
 └── README.md
 ```
 ## Progress
@@ -40,7 +41,7 @@ Python/
 - Completed Day 3 – String Operations and Practice Programs
 - Completed Day 4 – Conditional Statements
 - Completed Day 5 - Loops
-- Currently Learning – Patterns(using Nested loops)
+- Completed Day 6 – Patterns(using Nested loops)
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
