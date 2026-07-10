@@ -44,6 +44,7 @@ Python/
 - Completed Day 5 - Loops
 - Completed Day 6 – Patterns(using Nested loops)
 - Completed Day 7 - Collections1(List,Tuple)
+- 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
