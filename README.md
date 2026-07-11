@@ -19,8 +19,8 @@ The purpose of this repository is to:
 - Functions (Coming Soon)
 - Lists 
 - Tuples 
-- Dictionaries (Coming Soon)
-- Sets (Coming Soon)
+- Dictionaries
+- Sets 
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
@@ -45,7 +45,7 @@ Python/
 - Completed Day 5 - Loops
 - Completed Day 6 – Patterns(using Nested loops)
 - Completed Day 7 - Collections1(List,Tuple)
-- Completed Day 8 - Collections2(Sets)
+- Completed Day 8 - Collections2(Sets,Dictionaries)
 - 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
