@@ -1,0 +1,31 @@
+student = {
+    "Name":"Mounika",
+    "Age":21,
+    "Branch":"CSE"
+}
+# keys()
+print(student.keys())
+# values()
+print(student.values())
+# items()
+print(student.items())
+# get()
+print(student.get("Name"))
+# update()
+student.update({"CGPA":9.5})
+print(student)
+# pop()
+student.pop("Age")
+print(student)
+# popitem()
+student.popitem()
+print(student)
+# copy()
+new_student = student.copy()
+print(new_student)
+# clear()
+new_student.clear()
+print(new_student)
+# setdefault()
+student.setdefault("College","KARE")
+print(student)
