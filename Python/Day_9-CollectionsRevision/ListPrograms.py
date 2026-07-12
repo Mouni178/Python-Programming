@@ -1,4 +1,4 @@
-numbers = [10, 40, 20, 50, 30]
+numbers=[10, 40, 20, 50, 30]
 print("Original List:", numbers)
 # Append
 numbers.append(60)
