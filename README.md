@@ -35,6 +35,7 @@ Python/
 ├── Day_6_Patterns/
 ├── Day_7-Collections1/
 ├── Day_8-Collections2/
+├── Day_9-CollectionsRevison/
 └── README.md
 ```
 ## Progress
@@ -46,6 +47,7 @@ Python/
 - Completed Day 6 – Patterns(using Nested loops)
 - Completed Day 7 - Collections1(List,Tuple)
 - Completed Day 8 - Collections2(Sets,Dictionaries)
+- Completed Day 9 - CollectionsRevision
 - 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
