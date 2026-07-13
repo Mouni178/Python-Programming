@@ -16,7 +16,7 @@ The purpose of this repository is to:
 - String Operations
 - Conditional Statements
 - Loops 
-- Functions (Coming Soon)
+- Functions 
 - Lists 
 - Tuples 
 - Dictionaries
@@ -36,6 +36,7 @@ Python/
 ├── Day_7-Collections1/
 ├── Day_8-Collections2/
 ├── Day_9-CollectionsRevison/
+├── Day_10-Functions/
 └── README.md
 ```
 ## Progress
@@ -48,7 +49,7 @@ Python/
 - Completed Day 7 - Collections1(List,Tuple)
 - Completed Day 8 - Collections2(Sets,Dictionaries)
 - Completed Day 9 - CollectionsRevision
-- 
+- Completed Day 10 Functions
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
