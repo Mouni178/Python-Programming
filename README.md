@@ -37,6 +37,7 @@ Python/
 ├── Day_8-Collections2/
 ├── Day_9-CollectionsRevison/
 ├── Day_10-Functions/
+├── Day_11-Functions2/
 └── README.md
 ```
 ## Progress
@@ -49,7 +50,9 @@ Python/
 - Completed Day 7 - Collections1(List,Tuple)
 - Completed Day 8 - Collections2(Sets,Dictionaries)
 - Completed Day 9 - CollectionsRevision
-- Completed Day 10 Functions
+- Completed Day 10 - Functions
+- Completed Day 11 - Functions2
+- 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
