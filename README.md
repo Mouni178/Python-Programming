@@ -20,7 +20,8 @@ The purpose of this repository is to:
 - Lists 
 - Tuples 
 - Dictionaries
-- Sets 
+- Sets
+- Arrays(Ongoing)
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
@@ -38,6 +39,7 @@ Python/
 ├── Day_9-CollectionsRevison/
 ├── Day_10-Functions/
 ├── Day_11-Functions2/
+├── Day_12-Arrays/
 └── README.md
 ```
 ## Progress
@@ -52,7 +54,7 @@ Python/
 - Completed Day 9 - CollectionsRevision
 - Completed Day 10 - Functions
 - Completed Day 11 - Functions2
-- 
+- Completed Day 12 - Arrays
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
