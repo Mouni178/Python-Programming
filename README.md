@@ -41,7 +41,7 @@ Python/
 ├── Day_10-Functions/
 ├── Day_11-Functions2/
 ├── Day_12-Arrays/
-├── Day_13-Numpy/
+├── Day_13-NumPy/
 
 └── README.md
 ```
@@ -58,6 +58,7 @@ Python/
 - Completed Day 10 - Functions
 - Completed Day 11 - Functions2
 - Completed Day 12 - Arrays
+- Completed Day 13 - NumPy
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
