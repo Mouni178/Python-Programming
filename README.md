@@ -21,7 +21,8 @@ The purpose of this repository is to:
 - Tuples 
 - Dictionaries
 - Sets
-- Arrays(Ongoing)
+- Arrays
+- Numpy(Ongoing)
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
