@@ -22,7 +22,7 @@ The purpose of this repository is to:
 - Dictionaries
 - Sets
 - Arrays
-- Numpy(Ongoing)
+- Numpy
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
@@ -59,6 +59,7 @@ Python/
 - Completed Day 11 - Functions2
 - Completed Day 12 - Arrays
 - Completed Day 13 - NumPy
+- Completed day 14 -NumPy2
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
