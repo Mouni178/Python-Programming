@@ -42,7 +42,7 @@ Python/
 ├── Day_11-Functions2/
 ├── Day_12-Arrays/
 ├── Day_13-NumPy/
-
+├── Day_14-NumPy2/
 └── README.md
 ```
 ## Progress
