@@ -60,7 +60,8 @@ Python/
 - Completed Day 11 - Functions2
 - Completed Day 12 - Arrays
 - Completed Day 13 - NumPy
-- Completed day 14 -NumPy2
+- Completed Day 14 - NumPy2
+- Completed Day 15 - ArrayExamples
 - 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
