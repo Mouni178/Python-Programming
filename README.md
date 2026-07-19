@@ -68,6 +68,7 @@ Python/
 - Completed Day 13 - NumPy
 - Completed Day 14 - NumPy2
 - Completed Day 15 - ArrayExamples
+- Completed Day 16 - Pandas
 - 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
