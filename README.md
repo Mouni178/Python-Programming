@@ -23,6 +23,7 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
+- Pandas
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
@@ -44,6 +45,11 @@ Python/
 ├── Day_13-NumPy/
 ├── Day_14-NumPy2/
 ├── Day_15-ArrayExamples/
+├──Day_16-Pandas/
+├──
+├──
+├──
+├── 
 └── README.md
 ```
 ## Progress
