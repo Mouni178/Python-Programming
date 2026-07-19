@@ -43,6 +43,7 @@ Python/
 ├── Day_12-Arrays/
 ├── Day_13-NumPy/
 ├── Day_14-NumPy2/
+├── Day_15-ArrayExamples/
 └── README.md
 ```
 ## Progress
@@ -59,7 +60,9 @@ Python/
 - Completed Day 11 - Functions2
 - Completed Day 12 - Arrays
 - Completed Day 13 - NumPy
-- Completed day 14 -NumPy2
+- Completed Day 14 - NumPy2
+- Completed Day 15 - ArrayExamples
+- 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
