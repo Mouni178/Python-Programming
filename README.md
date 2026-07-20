@@ -45,8 +45,8 @@ Python/
 ├── Day_13-NumPy/
 ├── Day_14-NumPy2/
 ├── Day_15-ArrayExamples/
-├──Day_16-Pandas/
-├──
+├── Day_16-Pandas/
+├── day_17-Pandas2/
 ├──
 ├──
 ├── 
