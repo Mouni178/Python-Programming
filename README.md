@@ -23,7 +23,7 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
-- Pandas
+- Pandas(ongoing)
 - File Handling (Coming Soon)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
