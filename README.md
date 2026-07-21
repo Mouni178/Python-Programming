@@ -46,12 +46,9 @@ Python/
 ├── Day_14-NumPy2/
 ├── Day_15-ArrayExamples/
 ├── Day_16-Pandas/
-<<<<<<< HEAD
-├── day_17-Pandas2/
-=======
 ├── Day_17-Pandas2/
->>>>>>> e4e0f3912917105302451671e59e5da9f826c4c4
-├──
+├── day_18-strings/
+├── Day_
 ├──
 ├── 
 └── README.md
