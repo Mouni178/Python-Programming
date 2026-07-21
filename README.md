@@ -45,8 +45,8 @@ Python/
 ├── Day_13-NumPy/
 ├── Day_14-NumPy2/
 ├── Day_15-ArrayExamples/
-├──Day_16-Pandas/
-├──
+├── Day_16-Pandas/
+├── day_17-Pandas2/
 ├──
 ├──
 ├── 
@@ -69,6 +69,7 @@ Python/
 - Completed Day 14 - NumPy2
 - Completed Day 15 - ArrayExamples
 - Completed Day 16 - Pandas
+- Completed Day 17 - Pandas2
 - 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
