@@ -47,7 +47,7 @@ Python/
 ├── Day_15-ArrayExamples/
 ├── Day_16-Pandas/
 ├── Day_17-Pandas2/
-├── day_18-strings/
+├── Day_18-strings/
 ├── Day_
 ├──
 ├── 
