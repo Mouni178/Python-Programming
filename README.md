@@ -46,12 +46,9 @@ Python/
 ├── Day_14-NumPy2/
 ├── Day_15-ArrayExamples/
 ├── Day_16-Pandas/
-<<<<<<< HEAD
-├── day_17-Pandas2/
-=======
 ├── Day_17-Pandas2/
->>>>>>> e4e0f3912917105302451671e59e5da9f826c4c4
-├──
+├── Day_18-strings/
+├── Day_19-
 ├──
 ├── 
 └── README.md
@@ -73,12 +70,8 @@ Python/
 - Completed Day 14 - NumPy2
 - Completed Day 15 - ArrayExamples
 - Completed Day 16 - Pandas
-<<<<<<< HEAD
 - Completed Day 17 - Pandas2
-- 
-=======
-- Completed day 17 - pandas2
->>>>>>> e4e0f3912917105302451671e59e5da9f826c4c4
+- Completed day_18 - Strings
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
