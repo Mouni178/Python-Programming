@@ -24,7 +24,7 @@ The purpose of this repository is to:
 - Arrays
 - Numpy
 - Pandas(ongoing)
-- File Handling 
+- File Handling (Ongoing)
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
 ## Folder Structure
@@ -48,7 +48,7 @@ Python/
 ├── Day_16-Pandas/
 ├── Day_17-Pandas2/
 ├── Day_18-strings/
-├── Day_19-
+├── Day_19-File Handling/
 ├──
 ├── 
 └── README.md
