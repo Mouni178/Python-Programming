@@ -24,7 +24,7 @@ The purpose of this repository is to:
 - Arrays
 - Numpy
 - Pandas(ongoing)
-- File Handling (Coming Soon)
+- File Handling 
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
 ## Folder Structure
