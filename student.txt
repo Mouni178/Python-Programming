@@ -1,4 +1,3 @@
-name:Mounika
-Branch:CSE-AIML
-CGPA:9.01
-College:Kare
+Name : Mounika Royal
+Age : 21
+Branch : CSE-AIML
