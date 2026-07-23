@@ -24,7 +24,7 @@ The purpose of this repository is to:
 - Arrays
 - Numpy
 - Pandas(ongoing)
-- File Handling (Ongoing)
+- File Handling 
 - Exception Handling (Coming Soon)
 - Object-Oriented Programming (Coming Soon)
 ## Folder Structure
@@ -73,7 +73,7 @@ Python/
 - Completed Day 17 - Pandas2
 - Completed Day_18 - Strings
 - Completed Day_19 - File Handling
-- 
+- Completed Day_20 - File Handling Problems
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
