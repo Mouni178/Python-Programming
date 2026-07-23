@@ -7,4 +7,10 @@ with open("student.txt","w") as file:
     file.write("Age : "+ age + "\n")
     file.write("Branch : "+ branch + "\n")
 print("Student Details Saved")
-    
+#Program-2
+with open("student.txt","r") as file:
+    print(file.read())
+#program-3
+with open("student.txt","r") as file:
+    data = file.read()
+print("Characters =", len(data))
