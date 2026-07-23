@@ -49,7 +49,7 @@ Python/
 ├── Day_17-Pandas2/
 ├── Day_18-strings/
 ├── Day_19-File Handling/
-├──
+├── Day_20-FileHandling2/
 ├── 
 └── README.md
 ```
@@ -73,6 +73,7 @@ Python/
 - Completed Day 17 - Pandas2
 - Completed Day_18 - Strings
 - Completed Day_19 - File Handling
+- 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
