@@ -5,8 +5,7 @@ try:
     print(numbers[index])
 except IndexError:
     print("Invalid Index")
-except ValueError:
-    print("Please Enter the Correct value of an Integer")
+
 #Example-2
 try:
     number = int(input("Enter Number: "))
