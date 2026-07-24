@@ -25,7 +25,7 @@ The purpose of this repository is to:
 - Numpy
 - Pandas(ongoing)
 - File Handling 
-- Exception Handling (Coming Soon)
+- Exception Handling
 - Object-Oriented Programming (Coming Soon)
 ## Folder Structure
 ```
