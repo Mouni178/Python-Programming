@@ -51,7 +51,7 @@ Python/
 ├── Day_19-File Handling/
 ├── Day_20-FileHandling2/
 ├── Day_21-Exception Handling/
-├── 
+├── Day_22-Exception handling2/
 └── README.md
 ```
 ## Progress
@@ -75,6 +75,8 @@ Python/
 - Completed Day_18 - Strings
 - Completed Day_19 - File Handling
 - Completed Day_20 - File Handling Problems
+- Completed Day_21 - Exception handling
+- 
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
