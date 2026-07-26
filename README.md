@@ -77,7 +77,7 @@ Python/
 - Completed Day_19 - File Handling
 - Completed Day_20 - File Handling Problems
 - Completed Day_21 - Exception Handling
-- Completed day_22 - Exception Handling2
+- Completed Day_22 - Exception Handling2
 - Completed day_23 - Revision
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
