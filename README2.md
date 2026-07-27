@@ -13,7 +13,7 @@ The purpose of this repository is to:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 Machine_Learning/
