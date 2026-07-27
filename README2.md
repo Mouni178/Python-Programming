@@ -11,8 +11,6 @@ The purpose of this repository is to:
 ## Topics Covered
 - Introduction to Machine Learning
 
----
-
 ## Folder Structure
 
 ```text
