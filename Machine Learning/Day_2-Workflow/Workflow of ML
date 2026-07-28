@@ -1,0 +1,104 @@
+"""
+Machine Learning Workflow
+"""
+
+1. What is Machine Learning Workflow?
+# Machine Learning Workflow is a step-by-step process used to build
+# a machine learning model. It starts with collecting data and ends
+# with making predictions using the trained model.
+
+Step 1: Collect Data
+# Data is the foundation of Machine Learning.
+# It can be collected from databases, websites, surveys,
+# sensors, APIs, or public datasets.
+Example:
+# A house price prediction model needs data such as:
+# - Area of the house
+# - Number of bedrooms
+# - Location
+# - Age of the house
+# - Selling price
+
+Step 2: Data Preprocessing (Data Cleaning)
+# Raw data often contains errors or missing values.
+# Data preprocessing improves the quality of the data.
+-Common preprocessing tasks:
+# - Remove duplicate records
+# - Handle missing values
+# - Correct incorrect data
+# - Convert categorical data into numerical form
+# - Scale or normalize numerical values
+# Example:
+# Missing house prices are filled with the average price.
+Step 3: Split the Data
+# The dataset is divided into:
+# 1. Training Data
+# 2. Testing Data
+# Training Data:
+# Used to teach the machine learning model.
+# Testing Data:
+# Used to check how well the trained model performs on new data.
+-Common split:
+# 80% Training Data
+# 20% Testing Data
+
+Step 4: Choose a Machine Learning Algorithm
+# Select an algorithm based on the type of problem
+# Examples:
+# - Linear Regression (Prediction)
+# - Decision Tree
+# - Random Forest
+# - K-Nearest Neighbors (KNN)
+# - Support Vector Machine (SVM)
+Step 5: Train the Model
+# The selected algorithm learns patterns from the training data.
+# Goal:
+# Learn the relationship between input and output.
+# Example:
+# Learn how house area, location, and bedrooms affect price.
+
+Step 6: Test the Model
+# The trained model is tested using testing data.
+# Purpose:
+# Check whether the model can predict correctly for unseen data.
+
+Step 7: Evaluate the Model
+# Measure the model's performance.
+# Common evaluation metrics:
+# - Accuracy
+# - Precision
+# - Recall
+# - F1 Score
+# - Mean Squared Error (MSE)
+*If performance is poor:
+# - Improve data quality
+# - Choose another algorithm
+# - Tune model parameters
+
+Step 8: Make Predictions (Deployment)
+# Once the model performs well, it is used to predict results
+# for new, unseen data.
+# Example:
+# Predict the price of a new house based on:
+# - Area
+# - Bedrooms
+# - Location
+# - Age
+
+MACHINE LEARNING WORKFLOW SUMMARY
+
+1. Collect Data
+        ↓
+2. Data Preprocessing
+        ↓
+3. Split Data (Training & Testing)
+        ↓
+4. Choose Algorithm
+        ↓
+5. Train the Model
+        ↓
+6. Test the Model
+        ↓
+7. Evaluate the Model
+        ↓
+8. Make Predictions
