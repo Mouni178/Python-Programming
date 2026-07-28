@@ -28,7 +28,7 @@ Machine_Learning/
 ## Progress
 
 - Day 1 – Completed Introduction to Machine Learning
-- Day_2 - Completed WorkFlow of Machine Learning
+- Day 2 - Completed WorkFlow of Machine Learning
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
