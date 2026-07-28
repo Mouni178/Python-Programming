@@ -1,4 +1,4 @@
-#Machine Learning
+Machine Learning
 Welcome to my Machine Learning learning repository.
 This repository contains my daily notes, Python programs, practice exercises, and mini projects as I learn Machine Learning from beginner to advanced concepts
 ## Overview
