@@ -10,7 +10,7 @@ The purpose of this repository is to:
 - Strengthen problem-solving and analytical skills.
 ## Topics Covered
 - Introduction to Machine Learning
-
+- WorkFlow of Machine Learning
 ## Folder Structure
 
 ```text
