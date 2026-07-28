@@ -16,7 +16,7 @@ The purpose of this repository is to:
 ```text
 Machine_Learning/
 ├── Day_1_Introduction/
-├── Day_2/
+├── Day_2-WorkFlow/
 ├── Day_3/
 ├── Day_4/
 ├── ...
