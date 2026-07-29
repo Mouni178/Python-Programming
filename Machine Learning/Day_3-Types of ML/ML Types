@@ -1,0 +1,67 @@
+"""
+Types of Machine Learning
+"""
+# What are the Types of Machine Learning?
+# Machine Learning is mainly divided into three types:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+1. Supervised Learning
+# Definition:
+# Supervised Learning is a type of Machine Learning in which
+# the model is trained using labeled data.
+# Labeled data means the input data already has the correct output.
+# Examples:
+# - House Price Prediction
+# - Student Marks Prediction
+# - Email Spam Detection
+# - Weather Prediction
+# Example:
+# Input  -> Hours Studied
+# Output -> Exam Marks
+# Goal:
+# To predict the correct output for new data.
+
+2. Unsupervised Learning
+# Definition:
+# Unsupervised Learning is a type of Machine Learning in which
+# the model is trained using unlabeled data.
+# The model finds hidden patterns or groups in the data.
+# Examples:
+# - Customer Segmentation
+# - Product Recommendation
+# - Market Basket Analysis
+# Example:
+# Group customers based on their shopping habits.
+# Goal:
+# To discover patterns or clusters in the data.
+
+3. Reinforcement Learning
+# Definition:
+# Reinforcement Learning is a type of Machine Learning where
+# an agent learns by interacting with an environment.
+# It receives rewards for correct actions and penalties for incorrect actions.
+# Examples:
+# - Self-driving Cars
+# - Robot Navigation
+# - Playing Games (Chess, Go)
+# Example:
+# A robot learns the best path to reach its destination by
+# receiving rewards for correct movements.
+# Goal:
+# To maximize the total reward by learning the best actions.
+
+# Comparison
+# Supervised Learning
+# - Uses labeled data
+# - Predicts output
+# - Example: House Price Prediction
+# Unsupervised Learning
+# - Uses unlabeled data
+# - Finds hidden patterns or groups
+# - Example: Customer Segmentation
+# Reinforcement Learning
+# - Learns through rewards and penalties
+# - Improves by trial and error
+# - Example: Self-driving Cars
