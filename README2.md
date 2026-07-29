@@ -1,4 +1,4 @@
-#Machine Learning
+Machine Learning
 Welcome to my Machine Learning learning repository.
 This repository contains my daily notes, Python programs, practice exercises, and mini projects as I learn Machine Learning from beginner to advanced concepts
 ## Overview
@@ -10,13 +10,13 @@ The purpose of this repository is to:
 - Strengthen problem-solving and analytical skills.
 ## Topics Covered
 - Introduction to Machine Learning
-
+- WorkFlow of Machine Learning
 ## Folder Structure
 
 ```text
 Machine_Learning/
 ├── Day_1_Introduction/
-├── Day_2/
+├── Day_2-WorkFlow/
 ├── Day_3/
 ├── Day_4/
 ├── ...
@@ -28,7 +28,8 @@ Machine_Learning/
 ## Progress
 
 - Day 1 – Completed Introduction to Machine Learning
-- 
+- Day 2 - Completed WorkFlow of Machine Learning
+  
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
