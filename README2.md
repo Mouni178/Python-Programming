@@ -11,6 +11,7 @@ The purpose of this repository is to:
 ## Topics Covered
 - Introduction to Machine Learning
 - WorkFlow of Machine Learning
+- Types of Machine Learning
 ## Folder Structure
 
 ```text
@@ -29,6 +30,7 @@ Machine_Learning/
 
 - Day 1 – Completed Introduction to Machine Learning
 - Day 2 - Completed WorkFlow of Machine Learning
+- Day 3 - Complet
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
