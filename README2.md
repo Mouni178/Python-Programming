@@ -17,7 +17,7 @@ The purpose of this repository is to:
 Machine_Learning/
 ├── Day_1_Introduction/
 ├── Day_2-WorkFlow/
-├── Day_3/
+├── Day_3-Types of Machine Learning
 ├── Day_4/
 ├── ...
 └── README.md
