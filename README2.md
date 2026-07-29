@@ -30,7 +30,7 @@ Machine_Learning/
 
 - Day 1 – Completed Introduction to Machine Learning
 - Day 2 - Completed WorkFlow of Machine Learning
-- Day 3 - Complet
+- Day 3 - Completed Types of Machine Learning
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
