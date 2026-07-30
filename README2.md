@@ -12,6 +12,7 @@ The purpose of this repository is to:
 - Introduction to Machine Learning
 - WorkFlow of Machine Learning
 - Types of Machine Learning
+- Data preprocessing
 ## Folder Structure
 
 ```text
