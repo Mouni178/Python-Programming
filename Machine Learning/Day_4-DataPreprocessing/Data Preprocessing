@@ -1,0 +1,56 @@
+"""
+Data Preprocessing
+"""
+# What is Data Preprocessing?
+# Data Preprocessing is the process of cleaning and transforming
+# raw data into a format suitable for Machine Learning models.
+
+# Why is Data Preprocessing Important?
+# - Improves data quality
+# - Handles missing values
+# - Removes duplicate data
+# - Converts data into a suitable format
+# - Improves model accuracy
+
+# Steps in Data Preprocessing
+# 1. Import the Dataset
+# Load the dataset into Python using libraries like Pandas.
+# Example:
+# import pandas as pd
+# data = pd.read_csv("data.csv")
+
+# 2. Handle Missing Values
+# Missing values can affect model performance.
+# They can be:
+# - Removed
+# - Replaced with mean
+# - Replaced with median
+# - Replaced with mode
+# Example:
+# data.fillna(data.mean())
+
+# 3. Remove Duplicate Data
+# Duplicate records should be removed to avoid incorrect results.
+# Example:
+# data.drop_duplicates()
+
+# 4. Encode Categorical Data
+# Convert text values into numbers.
+# Example:
+# Gender:
+# Male   -> 0
+# Female -> 1
+
+# 5. Feature Scaling
+# Scale numerical values so that all features have a similar range.
+# Common Techniques:
+# - Standardization
+# - Normalization
+
+# 6. Split the Dataset
+# Divide the dataset into:
+# - Training Data
+# - Testing Data
+# Common Split:
+# 80% Training
+# 20% Testing
