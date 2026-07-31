@@ -34,6 +34,7 @@ Machine_Learning/
 - Day 2 - Completed WorkFlow of Machine Learning
 - Day 3 - Completed Types of Machine Learning
 - Day 4 - Completed Data Preprocessing
+- Day 5 - Completed Train Test Split
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
