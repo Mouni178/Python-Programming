@@ -12,14 +12,15 @@ The purpose of this repository is to:
 - Introduction to Machine Learning
 - WorkFlow of Machine Learning
 - Types of Machine Learning
+- Data Preprocessing
 ## Folder Structure
 
 ```text
 Machine_Learning/
 ├── Day_1-Introduction/
 ├── Day_2-WorkFlow/
-├── Day_3-Types of Machine Learning
-├── Day_4/
+├── Day_3-Types of Machine Learning/
+├── Day_4-Data Preprocessing/
 ├── ...
 └── README.md
 ```
@@ -31,6 +32,7 @@ Machine_Learning/
 - Day 1 – Completed Introduction to Machine Learning
 - Day 2 - Completed WorkFlow of Machine Learning
 - Day 3 - Completed Types of Machine Learning
+- Day 4 - Completed Data Preprocessing
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
