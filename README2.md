@@ -23,6 +23,7 @@ Machine_Learning/
 ├── Day_3-Types of Machine Learning/
 ├── Day_4-Data Preprocessing/
 ├── Day_5-TrainTestSplit/
+├── Day_6-Feature Scaling/
 └── README.md
 ```
 
