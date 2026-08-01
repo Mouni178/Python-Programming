@@ -13,6 +13,7 @@ The purpose of this repository is to:
 - WorkFlow of Machine Learning
 - Types of Machine Learning
 - Data Preprocessing
+- TrainTestSplit
 ## Folder Structure
 
 ```text
@@ -21,7 +22,7 @@ Machine_Learning/
 ├── Day_2-WorkFlow/
 ├── Day_3-Types of Machine Learning/
 ├── Day_4-Data Preprocessing/
-├── ...
+├── Day_5-TrainTestSplit/
 └── README.md
 ```
 
@@ -33,6 +34,7 @@ Machine_Learning/
 - Day 2 - Completed WorkFlow of Machine Learning
 - Day 3 - Completed Types of Machine Learning
 - Day 4 - Completed Data Preprocessing
+- Day 5 - Completed Train Test Split
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
