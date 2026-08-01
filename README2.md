@@ -14,6 +14,7 @@ The purpose of this repository is to:
 - Types of Machine Learning
 - Data Preprocessing
 - TrainTestSplit
+- Feature Scaling
 ## Folder Structure
 
 ```text
