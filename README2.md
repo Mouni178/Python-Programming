@@ -25,6 +25,7 @@ Machine_Learning/
 ├── Day_4-Data Preprocessing/
 ├── Day_5-TrainTestSplit/
 ├── Day_6-Feature Scaling/
+├── Day_7-Regression/
 └── README.md
 ```
 
