@@ -15,6 +15,7 @@ The purpose of this repository is to:
 - Data Preprocessing
 - TrainTestSplit
 - Feature Scaling
+- Regression
 ## Folder Structure
 
 ```text
