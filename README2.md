@@ -39,7 +39,8 @@ Machine_Learning/
 - Day 3 - Completed Types of Machine Learning
 - Day 4 - Completed Data Preprocessing
 - Day 5 - Completed Train Test Split
-- Day 6 - Completed Feature Scaling 
+- Day 6 - Completed Feature Scaling
+- day 7 - Completed Regression 
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
