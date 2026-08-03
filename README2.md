@@ -16,6 +16,7 @@ The purpose of this repository is to:
 - TrainTestSplit
 - Feature Scaling
 - Regression
+- Classification
 ## Folder Structure
 
 ```text
