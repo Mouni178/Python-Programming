@@ -27,6 +27,7 @@ Machine_Learning/
 ├── Day_5-TrainTestSplit/
 ├── Day_6-Feature Scaling/
 ├── Day_7-Regression/
+├── Day_8-Classification/
 └── README.md
 ```
 
