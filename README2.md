@@ -42,7 +42,8 @@ Machine_Learning/
 - Day 4 - Completed Data Preprocessing
 - Day 5 - Completed Train Test Split
 - Day 6 - Completed Feature Scaling
-- day 7 - Completed Regression 
+- Day 7 - Completed Regression
+- Day 8 -
   
 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
