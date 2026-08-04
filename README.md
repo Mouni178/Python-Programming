@@ -23,7 +23,8 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
-- Pandas(ongoing)
+- Pandas(
+- Seaborn
 - File Handling 
 - Exception Handling
 - Object-Oriented Programming (Coming Soon)
