@@ -23,8 +23,9 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
-- Pandas(
+- Pandas
 - Seaborn
+- Matplot
 - File Handling 
 - Exception Handling
 - Object-Oriented Programming (Coming Soon)
@@ -54,6 +55,7 @@ Python/
 ├── Day_21-Exception Handling/
 ├── Day_22-Exception handling2/
 ├── Day_23-Revision
+├── Day_24-Seaborn/
 └── README.md
 ```
 ## Progress
@@ -80,6 +82,7 @@ Python/
 - Completed Day_21 - Exception Handling
 - Completed Day_22 - Exception Handling2
 - Completed Day_23 - Revision
+- Completed Day_24 - Seaborn
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
