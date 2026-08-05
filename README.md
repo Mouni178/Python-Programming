@@ -84,6 +84,7 @@ Python/
 - Completed Day_22 - Exception Handling2
 - Completed Day_23 - Revision
 - Completed Day_24 - Seaborn
+- Completed Day_25 - Seanorn2
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
