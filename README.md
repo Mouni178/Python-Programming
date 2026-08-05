@@ -56,6 +56,7 @@ Python/
 ├── Day_22-Exception handling2/
 ├── Day_23-Revision
 ├── Day_24-Seaborn/
+├── Day_25-Seaborn2/
 └── README.md
 ```
 ## Progress
