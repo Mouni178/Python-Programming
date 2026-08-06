@@ -57,6 +57,7 @@ Python/
 ├── Day_23-Revision
 ├── Day_24-Seaborn/
 ├── Day_25-Seaborn2/
+├── Day_26-MatplotLib/
 └── README.md
 ```
 ## Progress
