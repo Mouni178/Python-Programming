@@ -23,7 +23,7 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
-- Pandas
+- Pandas 
 - Seaborn
 - Matplot
 - File Handling 
