@@ -46,8 +46,7 @@ Machine_Learning/
 - Day 6 - Completed Feature Scaling
 - Day 7 - Completed Regression
 - Day 8 - Completed Classification
-  
-
+- Day 9 - Completed KNN
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
