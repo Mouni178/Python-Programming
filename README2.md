@@ -17,6 +17,7 @@ The purpose of this repository is to:
 - Feature Scaling
 - Regression
 - Classification
+- KNN
 ## Folder Structure
 
 ```text
