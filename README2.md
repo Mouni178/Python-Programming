@@ -29,6 +29,7 @@ Machine_Learning/
 ├── Day_6-Feature Scaling/
 ├── Day_7-Regression/
 ├── Day_8-Classification/
+├── Day_9-KNN/
 └── README.md
 ```
 
