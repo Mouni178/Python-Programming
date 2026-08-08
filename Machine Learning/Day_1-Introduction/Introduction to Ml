@@ -1,0 +1,30 @@
+MACHINE LEARNING-DAY1
+1.What is Machine Learning?
+# Machine Learning is a branch of Artificial Intelligence(AI) that enables computers to learn from data and make predictions or decisions without being explicitely programmed.
+
+2.AI vs ML
+Artificial Intelligence (AI):
+# AI is a broad field that focuses on creating systems capable of
+# performing tasks that normally require human intelligence.
+# Example: Chatbots, Virtual Assistants, Self-driving Cars.
+Machine Learning (ML):
+# ML is a subset of AI that allows computers to learn from data
+# and improve their performance without explicit programming.
+# Example: Email Spam Detection, Movie Recommendations.
+
+3.Why Machine Learning?
+# - Automates repetitive tasks.
+# - Identifies hidden patterns in data.
+# - Makes accurate predictions.
+# - Improves decision-making.
+# - Continuously improves with more data.
+
+4.Applications of Machine Learning
+# - Email Spam Detection
+# - Face Recognition
+# - Recommendation Systems (Netflix, Amazon, YouTube)
+# - Medical Diagnosis
+# - Fraud Detection
+# - Weather Forecasting
+# - Speech Recognition
+# - Self-driving Cars

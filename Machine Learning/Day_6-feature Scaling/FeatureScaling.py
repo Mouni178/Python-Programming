@@ -1,7 +1,6 @@
 """
 Train-Test Split
 """
-
 # What is Train-Test Split?
 # Train-Test Split is the process of dividing a dataset into
 # two parts: Training Data and Testing Data.
@@ -12,15 +11,12 @@ Train-Test Split
 # - To check how well the model performs.
 
 # Types of Data
-
 # 1. Training Data
 # - Used to train the machine learning model.
 # - The model learns patterns from this data.
-
 # 2. Testing Data
 # - Used to evaluate the trained model.
 # - It checks the model's performance on new data.
-
 # Common Split Ratios
 # - 80% Training : 20% Testing
 # - 70% Training : 30% Testing
