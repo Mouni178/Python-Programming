@@ -23,7 +23,7 @@ The purpose of this repository is to:
 - Sets
 - Arrays
 - Numpy
-- Pandas
+- Pandas 
 - Seaborn
 - Matplot
 - File Handling 
@@ -58,6 +58,7 @@ Python/
 ├── Day_24-Seaborn/
 ├── Day_25-Seaborn2/
 ├── Day_26-MatplotLib/
+├── Day_27-MatplotLib2/
 └── README.md
 ```
 ## Progress
@@ -87,6 +88,7 @@ Python/
 - Completed Day_24 - Seaborn
 - Completed Day_25 - Seaborn2
 - Completed Day_26 - MatplotLib
+- Completed Day_27 - MatplotLib2
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
