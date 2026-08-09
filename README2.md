@@ -18,6 +18,7 @@ The purpose of this repository is to:
 - Regression
 - Classification
 - KNN
+- Entopry
 ## Folder Structure
 
 ```text
