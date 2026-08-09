@@ -32,6 +32,7 @@ Machine_Learning/
 ├── Day_7-Regression/
 ├── Day_8-Classification/
 ├── Day_9-KNN/
+├── Day_10-Entropy/
 └── README.md
 ```
 
