@@ -33,6 +33,7 @@ Machine_Learning/
 ├── Day_8-Classification/
 ├── Day_9-KNN/
 ├── Day_10-Entropy/
+├── Day_11-Gain and Information Gain/
 └── README.md
 ```
 
