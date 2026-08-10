@@ -52,6 +52,7 @@ Machine_Learning/
 - Day 8 - Completed Classification
 - Day 9 - Completed KNN
 - Day 10 - Completed Entropy
+- Day 11 - Completed Gain and Information Gain
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
