@@ -55,6 +55,7 @@ Machine_Learning/
 - Day 9 - Completed KNN
 - Day 10 - Completed Entropy
 - Day 11 - Completed Gain and Information Gain
+- Day 12 - Completed SVM Basics
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
