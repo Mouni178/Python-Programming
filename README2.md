@@ -18,7 +18,8 @@ The purpose of this repository is to:
 - Regression
 - Classification
 - KNN
-- Entopry
+- Entropy
+- Gain and Information Gain
 ## Folder Structure
 
 ```text
@@ -33,6 +34,7 @@ Machine_Learning/
 ├── Day_8-Classification/
 ├── Day_9-KNN/
 ├── Day_10-Entropy/
+├── Day_11-Gain and Information Gain/
 └── README.md
 ```
 
@@ -50,6 +52,7 @@ Machine_Learning/
 - Day 8 - Completed Classification
 - Day 9 - Completed KNN
 - Day 10 - Completed Entropy
+- Day 11 - Completed Gain and Information Gain
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
