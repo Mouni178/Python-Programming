@@ -20,6 +20,7 @@ The purpose of this repository is to:
 - KNN
 - Entropy
 - Gain and Information Gain
+- SVM 
 ## Folder Structure
 
 ```text
