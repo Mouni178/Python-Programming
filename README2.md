@@ -36,6 +36,7 @@ Machine_Learning/
 ├── Day_9-KNN/
 ├── Day_10-Entropy/
 ├── Day_11-Gain and Information Gain/
+├── Day_12-SVM_Basics/
 └── README.md
 ```
 
