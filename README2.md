@@ -58,6 +58,7 @@ Machine_Learning/
 - Day 11 - Completed Gain and Information Gain
 - Day 12 - Completed SVM Basics
 - Day 13 - Completed SVM Implementation
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
