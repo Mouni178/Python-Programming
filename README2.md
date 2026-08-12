@@ -20,6 +20,7 @@ The purpose of this repository is to:
 - KNN
 - Entropy
 - Gain and Information Gain
+- SVM 
 ## Folder Structure
 
 ```text
@@ -35,6 +36,7 @@ Machine_Learning/
 ├── Day_9-KNN/
 ├── Day_10-Entropy/
 ├── Day_11-Gain and Information Gain/
+├── Day_12-SVM_Basics/
 └── README.md
 ```
 
@@ -53,6 +55,7 @@ Machine_Learning/
 - Day 9 - Completed KNN
 - Day 10 - Completed Entropy
 - Day 11 - Completed Gain and Information Gain
+- Day 12 - Completed SVM Basics
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
