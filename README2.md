@@ -38,6 +38,7 @@ Machine_Learning/
 ├── Day_11-Gain and Information Gain/
 ├── Day_12-SVM_Basics/
 ├── Day_13-SVM_Implementation/
+├── Day_14-SVM_Kernels/
 └── README.md
 ```
 
