@@ -37,6 +37,7 @@ Machine_Learning/
 ├── Day_10-Entropy/
 ├── Day_11-Gain and Information Gain/
 ├── Day_12-SVM_Basics/
+├── Day_13-SVM_Implementation/
 └── README.md
 ```
 
@@ -56,6 +57,8 @@ Machine_Learning/
 - Day 10 - Completed Entropy
 - Day 11 - Completed Gain and Information Gain
 - Day 12 - Completed SVM Basics
+- Day 13 - Completed SVM Implementation
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
