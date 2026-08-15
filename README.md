@@ -90,6 +90,7 @@ Python/
 - Completed Day_25 - Seaborn2
 - Completed Day_26 - MatplotLib
 - Completed Day_27 - MatplotLib2
+- Completed Day_28 - Revision of all topics
 New programs and practice exercises will be added regularly as I continue learning Python.
 ## Technologies Used
 - Python 3
