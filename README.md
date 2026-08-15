@@ -59,6 +59,7 @@ Python/
 ├── Day_25-Seaborn2/
 ├── Day_26-MatplotLib/
 ├── Day_27-MatplotLib2/
+├── Day_28-Revision of all Topics/
 └── README.md
 ```
 ## Progress
