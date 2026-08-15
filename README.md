@@ -11,7 +11,7 @@ The purpose of this repository is to:
 - Variables
 - Data Types
 - Type Conversion
-- Input and Output
+- Input and Output 
 - Operators
 - String Operations
 - Conditional Statements
