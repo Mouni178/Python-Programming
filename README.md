@@ -7,7 +7,7 @@ The purpose of this repository is to:
 - Practice coding regularly.
 - Improve problem-solving skills.
 - Build a strong foundation for software development.
-## Topics Covered
+## Topics Covered 
 - Variables
 - Data Types
 - Type Conversion
