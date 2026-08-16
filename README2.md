@@ -21,7 +21,7 @@ The purpose of this repository is to:
 - Entropy 
 - Gain and Information Gain
 - SVM
-- 
+
 ## Folder Structure
 
 ```text
