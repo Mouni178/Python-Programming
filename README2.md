@@ -18,7 +18,7 @@ The purpose of this repository is to:
 - Regression
 - Classification
 - KNN
-- Entropy
+- Entropy 
 - Gain and Information Gain
 - SVM
 - 
