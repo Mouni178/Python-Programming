@@ -8,7 +8,7 @@ This folder contains my Machine Learning models and practical implementations de
 - Libraries: NumPy, Pandas, Scikit-learn, Seaborn
 ### 2. Linear Regression
 - Dataset: Iris Dataset
-- Algorithm: Support Vector Machine
+- Algorithm: Linear Regression
 - Type: Classification
 - Libraries: Scikit-learn, NumPy, Pandas
 
