@@ -40,7 +40,7 @@ Machine_Learning/
 ├── Day_12-SVM_Basics/
 ├── Day_13-SVM_Implementation/
 ├── Day_14-SVM_Kernels/
-├── Day_15-Revision of Above topics
+├── Day_15-Decisioion Tree
 └── README.md
 ```
 
