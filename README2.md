@@ -18,9 +18,10 @@ The purpose of this repository is to:
 - Regression
 - Classification
 - KNN
-- Entropy
+- Entropy 
 - Gain and Information Gain
-- SVM 
+- SVM
+
 ## Folder Structure
 
 ```text
@@ -38,6 +39,8 @@ Machine_Learning/
 ├── Day_11-Gain and Information Gain/
 ├── Day_12-SVM_Basics/
 ├── Day_13-SVM_Implementation/
+├── Day_14-SVM_Kernels/
+├── Day_15-Revision of Above topics
 └── README.md
 ```
 
@@ -46,7 +49,7 @@ Machine_Learning/
 ## Progress
 
 - Day 1 – Completed Introduction to Machine Learning
-- Day 2 - Completed WorkFlow of Machine Learning
+- Day 2 - Completed Work Flow of Machine Learning
 - Day 3 - Completed Types of Machine Learning
 - Day 4 - Completed Data Preprocessing
 - Day 5 - Completed Train Test Split
@@ -58,6 +61,7 @@ Machine_Learning/
 - Day 11 - Completed Gain and Information Gain
 - Day 12 - Completed SVM Basics
 - Day 13 - Completed SVM Implementation
+- Day 14 - Completed SVM Kernels
 - 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
