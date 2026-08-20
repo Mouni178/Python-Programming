@@ -13,7 +13,7 @@ The purpose of this repository is to:
 - WorkFlow of Machine Learning
 - Types of Machine Learning
 - Data Preprocessing
-- TrainTestSplit
+- TrainTestSplit 
 - Feature Scaling
 - Regression
 - Classification
@@ -40,7 +40,7 @@ Machine_Learning/
 ├── Day_12-SVM_Basics/
 ├── Day_13-SVM_Implementation/
 ├── Day_14-SVM_Kernels/
-├── Day_15-Revision of Above topics
+├── Day_15-Decisioion Tree
 └── README.md
 ```
 
@@ -62,7 +62,7 @@ Machine_Learning/
 - Day 12 - Completed SVM Basics
 - Day 13 - Completed SVM Implementation
 - Day 14 - Completed SVM Kernels
-- 
+- Day 15 - Complted Notes of Decision Tree
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
