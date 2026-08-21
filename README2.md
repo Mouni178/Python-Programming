@@ -66,7 +66,8 @@ Machine_Learning/
 - Day 13 - Completed SVM Implementation
 - Day 14 - Completed SVM Kernels
 - Day 15 - Complted Notes of Decision Tree
-- Day 16- Complted of Decision Tree Classification
+- Day 16 - Completed of Decision Tree Classification
+- Day 17 - Completed of Decision Tree Visualization
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
