@@ -71,6 +71,7 @@ Machine_Learning/
 - Day 15 - Complted Notes of Decision Tree
 - Day 16 - Completed of Decision Tree Classification
 - Day 17 - Completed of Decision Tree Visualization
+- Day 18 - Completed Bagging
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
