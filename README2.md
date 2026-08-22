@@ -41,8 +41,9 @@ Machine_Learning/
 ├── Day_12-SVM_Basics/
 ├── Day_13-SVM_Implementation/
 ├── Day_14-SVM_Kernels/
-├── Day_15-Decisioion Tree
-├── Day_16-Decisioion Tree Classification
+├── Day_15-Decisioion Tree/
+├── Day_16-Decisioion Tree Classification/
+├── Day_17-Decisioion Tree Visualization/
 └── README.md
 ```
 
@@ -65,7 +66,8 @@ Machine_Learning/
 - Day 13 - Completed SVM Implementation
 - Day 14 - Completed SVM Kernels
 - Day 15 - Complted Notes of Decision Tree
-- Day 16- Complted of Decision Tree Classification
+- Day 16 - Completed of Decision Tree Classification
+- Day 17 - Completed of Decision Tree Visualization
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
