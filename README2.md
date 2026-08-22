@@ -22,6 +22,8 @@ The purpose of this repository is to:
 - Gain and Information Gain
 - SVM
 - Decision Tree
+- Bagging
+- 
 
 ## Folder Structure
 
