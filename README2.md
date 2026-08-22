@@ -46,6 +46,7 @@ Machine_Learning/
 ├── Day_15-Decisioion Tree/
 ├── Day_16-Decisioion Tree Classification/
 ├── Day_17-Decisioion Tree Visualization/
+├── Day_18-Bagging/
 └── README.md
 ```
 
