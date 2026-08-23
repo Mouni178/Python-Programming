@@ -74,6 +74,7 @@ Machine_Learning/
 - Day 17 - Completed of Decision Tree Visualization
 - Day 18 - Completed Bagging
 - Day 19 - Completed Bagging Example
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
