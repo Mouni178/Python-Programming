@@ -22,6 +22,8 @@ The purpose of this repository is to:
 - Gain and Information Gain
 - SVM
 - Decision Tree
+- Bagging
+- 
 
 ## Folder Structure
 
@@ -44,6 +46,7 @@ Machine_Learning/
 ├── Day_15-Decisioion Tree/
 ├── Day_16-Decisioion Tree Classification/
 ├── Day_17-Decisioion Tree Visualization/
+├── Day_18-Bagging/
 └── README.md
 ```
 
@@ -68,6 +71,7 @@ Machine_Learning/
 - Day 15 - Complted Notes of Decision Tree
 - Day 16 - Completed of Decision Tree Classification
 - Day 17 - Completed of Decision Tree Visualization
+- Day 18 - Completed Bagging
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
