@@ -47,6 +47,7 @@ Machine_Learning/
 ├── Day_16-Decisioion Tree Classification/
 ├── Day_17-Decisioion Tree Visualization/
 ├── Day_18-Bagging/
+├── Day_19-Bagging_Example/
 └── README.md
 ```
 
@@ -72,6 +73,8 @@ Machine_Learning/
 - Day 16 - Completed of Decision Tree Classification
 - Day 17 - Completed of Decision Tree Visualization
 - Day 18 - Completed Bagging
+- Day 19 - Completed Bagging Example
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
