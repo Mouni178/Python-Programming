@@ -23,6 +23,7 @@ The purpose of this repository is to:
 - SVM
 - Decision Tree
 - Bagging
+- Boosting
 - 
 
 ## Folder Structure
