@@ -48,9 +48,7 @@ print(y_pred)
 
 print("\nActual:")
 print(y_test)
-
 # Accuracy
-
 accuracy = accuracy_score(y_test, y_pred)
 
 print("\nAccuracy:", accuracy)
