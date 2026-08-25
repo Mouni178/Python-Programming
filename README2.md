@@ -13,7 +13,7 @@ The purpose of this repository is to:
 - WorkFlow of Machine Learning
 - Types of Machine Learning
 - Data Preprocessing
-- TrainTestSplit 
+- TrainTestSplit   
 - Feature Scaling
 - Regression
 - Classification
@@ -79,6 +79,7 @@ Machine_Learning/
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
 - Day 21 - Completed Boosting Example
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
