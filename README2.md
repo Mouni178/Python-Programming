@@ -78,7 +78,7 @@ Machine_Learning/
 - Day 18 - Completed Bagging
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
-- Day 21 - 
+- Day 21 - Completed Boosting Example
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
