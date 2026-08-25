@@ -23,6 +23,7 @@ The purpose of this repository is to:
 - SVM
 - Decision Tree
 - Bagging
+- Boosting
 - 
 
 ## Folder Structure
@@ -48,6 +49,8 @@ Machine_Learning/
 ├── Day_17-Decisioion Tree Visualization/
 ├── Day_18-Bagging/
 ├── Day_19-Bagging_Example/
+├── Day_20-Boosting/
+├──
 └── README.md
 ```
 
@@ -74,7 +77,7 @@ Machine_Learning/
 - Day 17 - Completed of Decision Tree Visualization
 - Day 18 - Completed Bagging
 - Day 19 - Completed Bagging Example
-- 
+- Day 20 - Completed Boosting
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
