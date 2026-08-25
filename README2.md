@@ -13,7 +13,7 @@ The purpose of this repository is to:
 - WorkFlow of Machine Learning
 - Types of Machine Learning
 - Data Preprocessing
-- TrainTestSplit 
+- TrainTestSplit   
 - Feature Scaling
 - Regression
 - Classification
