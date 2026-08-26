@@ -51,6 +51,7 @@ Machine_Learning/
 ├── Day_19-Bagging_Example/
 ├── Day_20-Boosting/
 ├── Day_21-Boosting_Example/
+├── Day_22-Random Example/
 └── README.md
 ```
 
