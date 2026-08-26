@@ -24,7 +24,7 @@ The purpose of this repository is to:
 - Decision Tree
 - Bagging
 - Boosting
-- 
+- Random Forest
 
 ## Folder Structure
 
