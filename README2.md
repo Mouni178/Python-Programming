@@ -24,7 +24,7 @@ The purpose of this repository is to:
 - Decision Tree
 - Bagging
 - Boosting
-- 
+- Random Forest
 
 ## Folder Structure
 
@@ -51,6 +51,7 @@ Machine_Learning/
 ├── Day_19-Bagging_Example/
 ├── Day_20-Boosting/
 ├── Day_21-Boosting_Example/
+├── Day_22-Random Example/
 └── README.md
 ```
 
@@ -79,7 +80,7 @@ Machine_Learning/
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
 - Day 21 - Completed Boosting Example
-- 
+- Day 22 - Completed Random Example
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
