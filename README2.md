@@ -16,7 +16,7 @@ The purpose of this repository is to:
 - TrainTestSplit   
 - Feature Scaling
 - Regression
-- Classification
+- Classification 
 - KNN
 - Entropy 
 - Gain and Information Gain
