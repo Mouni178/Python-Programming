@@ -52,7 +52,8 @@ Machine_Learning/
 ├── Day_20-Boosting/
 ├── Day_21-Boosting_Example/
 ├── Day_22-Random Forest Example/
-├── Day_22-Random Forest Classification/ 
+├── Day_22-Random Forest Classification/
+├── Day_24-Random Forest Regression/
 └── README.md
 ```
 
