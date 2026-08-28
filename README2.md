@@ -84,7 +84,7 @@ Machine_Learning/
 - Day 21 - Completed Boosting Example
 - Day 22 - Completed Random Forest Example
 - Day 23 - Completed Random Forest Classification
-- 
+- Day 24 - Completed Random Forest Regression
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
