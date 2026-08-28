@@ -16,7 +16,7 @@ The purpose of this repository is to:
 - TrainTestSplit   
 - Feature Scaling
 - Regression
-- Classification
+- Classification 
 - KNN
 - Entropy 
 - Gain and Information Gain
@@ -51,7 +51,8 @@ Machine_Learning/
 ├── Day_19-Bagging_Example/
 ├── Day_20-Boosting/
 ├── Day_21-Boosting_Example/
-├── Day_22-Random Example/
+├── Day_22-Random Forest Example/
+├── Day_22-Random Forest Classification/ 
 └── README.md
 ```
 
@@ -80,7 +81,9 @@ Machine_Learning/
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
 - Day 21 - Completed Boosting Example
-- Day 22 - Completed Random Example
+- Day 22 - Completed Random Forest Example
+- Day 22 - Completed Random Forest Classification
+- 
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
