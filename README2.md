@@ -81,7 +81,7 @@ Machine_Learning/
 - Day 18 - Completed Bagging
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
-- Day 21 - Completed Boosting Example
+- Day 21 - Completed Boosting Example 
 - Day 22 - Completed Random Forest Example
 - Day 23 - Completed Random Forest Classification
 - Day 24 - Completed Random Forest Regression
