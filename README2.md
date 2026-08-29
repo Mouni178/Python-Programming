@@ -25,6 +25,7 @@ The purpose of this repository is to:
 - Bagging
 - Boosting
 - Random Forest
+- XGBoost
 
 ## Folder Structure
 
