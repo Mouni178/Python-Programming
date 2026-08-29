@@ -52,7 +52,8 @@ Machine_Learning/
 ├── Day_20-Boosting/
 ├── Day_21-Boosting_Example/
 ├── Day_22-Random Forest Example/
-├── Day_22-Random Forest Classification/ 
+├── Day_23-Random Forest Classification/
+├── Day_24-Random Forest Regression/
 └── README.md
 ```
 
@@ -80,10 +81,10 @@ Machine_Learning/
 - Day 18 - Completed Bagging
 - Day 19 - Completed Bagging Example
 - Day 20 - Completed Boosting
-- Day 21 - Completed Boosting Example
+- Day 21 - Completed Boosting Example 
 - Day 22 - Completed Random Forest Example
-- Day 22 - Completed Random Forest Classification
-- 
+- Day 23 - Completed Random Forest Classification
+- Day 24 - Completed Random Forest Regression
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
