@@ -55,6 +55,7 @@ Machine_Learning/
 ├── Day_22-Random Forest Example/
 ├── Day_23-Random Forest Classification/
 ├── Day_24-Random Forest Regression/
+├── Day_25-XGBoost/
 └── README.md
 ```
 
