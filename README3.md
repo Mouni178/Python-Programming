@@ -25,7 +25,7 @@ The models are evaluated using:
 - Precision
 - Recall
 - F1 Score
-- Confusion Matrix
+- Confusion Matrix 
 
 ## Tools & Technologies
 
