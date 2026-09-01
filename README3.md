@@ -11,6 +11,11 @@ This folder contains my Machine Learning models and practical implementations de
 - Algorithm: Linear Regression
 - Type: Classification
 - Libraries: Scikit-learn, NumPy, Pandas
+### 3. Decision Tree
+- Type: Classification
+- Dataset: Iris Dataset
+- Algorithm: Decision Tree
+- Libraries: Scikit-learn, NumPy, Pandas
 
 ## Evaluation Metrics
 
