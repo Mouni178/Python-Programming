@@ -5,7 +5,7 @@ This folder contains my Machine Learning models and practical implementations de
 - Dataset: Iris Dataset
 - Algorithm: K-Nearest Neighbors (KNN)
 - Type: Classification
-- Libraries: NumPy, Pandas, Scikit-learn, Seaborn
+- Libraries: NumPy, Pandas, Scikit-learn, Seaborn 
 ### 2. Iris Classification
 - Dataset: Iris Dataset
 - Algorithm: Linear Regression
