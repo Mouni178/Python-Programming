@@ -56,7 +56,7 @@ Machine_Learning/
 ├── Day_23-Random Forest Classification/
 ├── Day_24-Random Forest Regression/
 ├── Day_25-XGBoost Notes/
-├── Day_25-XGBoost Classification/
+├── Day_25-XGBoost Classification and regression/
 └── README.md
 ```
 
@@ -89,7 +89,7 @@ Machine_Learning/
 - Day 23 - Completed Random Forest Classification
 - Day 24 - Completed Random Forest Regression
 - Day 25 - Completed XGBoost notes
-- Day 25 - Completed XGBoost Classification
+- Day 25 - Completed XGBoost Classification and Regression
 New notes, practice programs, algorithms, and projects will be added regularly as I continue learning Machine Learning.
 ## Technologies Used
 
