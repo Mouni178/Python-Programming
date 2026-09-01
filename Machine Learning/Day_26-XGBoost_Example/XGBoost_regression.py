@@ -49,4 +49,4 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 print("\nMean Squared Error:", mse)
-print("R2 Score:", r2)
+print("R2 :", r2)
