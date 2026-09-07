@@ -16,7 +16,11 @@ This folder contains my Machine Learning models and practical implementations de
 - Dataset: Iris Dataset
 - Algorithm: Decision Tree
 - Libraries: Scikit-learn, NumPy, Pandas
-
+### 4. Titanic survival prediction
+- Type: Classification
+- Dataset - Titatic-Machine Learning from prediction
+- Algorithm - Logistic regression and Decision Tree Classifier
+- Libraries - scikit-Learn,Pandas,Numpy,seaborn
 ## Evaluation Metrics
 
 The models are evaluated using:
