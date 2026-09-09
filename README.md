@@ -29,6 +29,7 @@ The purpose of this repository is to:
 - File Handling 
 - Exception Handling
 - Object-Oriented Programming (Coming Soon)
+- Practiced Programs upto functions
 ## Folder Structure
 ```
 Python/
