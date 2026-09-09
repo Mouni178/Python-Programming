@@ -21,6 +21,7 @@ This folder contains my Machine Learning models and practical implementations de
 - Dataset - Titatic-Machine Learning from prediction
 - Algorithm - Logistic regression and Decision Tree Classifier
 - Libraries - scikit-Learn,Pandas,Numpy,seaborn
+### 5. Simple RNN
 ## Evaluation Metrics
 
 The models are evaluated using:
