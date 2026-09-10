@@ -18,11 +18,15 @@ This folder contains my Machine Learning models and practical implementations de
 - Libraries: Scikit-learn, NumPy, Pandas
 ### 4. Titanic survival prediction
 - Type: Classification
-- Dataset - Titatic-Machine Learning from prediction
-- Algorithm - Logistic regression and Decision Tree Classifier
-- Libraries - scikit-Learn,Pandas,Numpy,seaborn
+- Dataset: Titatic-Machine Learning from prediction
+- Algorithm: Logistic regression and Decision Tree Classifier
+- Libraries: scikit-Learn,Pandas,Numpy,seaborn
 ### 5. Simple RNN
-## Evaluation Metrics
+- Type: Binary Classification
+- Dataset: Movie Review sentiment Data
+- Alogorithm: simple Recurrent neural network(simple RNN)
+- Libraries: TensorFlow/Keras, Pandas, NumPy, Matplotlib, Scikit-learn
+## Evaluation Metric
 
 The models are evaluated using:
 
