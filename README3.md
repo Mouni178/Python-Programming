@@ -26,6 +26,12 @@ This folder contains my Machine Learning models and practical implementations de
 - Dataset: Movie Review sentiment Data
 - Alogorithm: simple Recurrent neural network(simple RNN)
 - Libraries: TensorFlow/Keras, Pandas, NumPy, Matplotlib, Scikit-learn
+### 6. Student Performance Classification
+- Type: Binary Classification
+- Dataset: Synthetic Student Performance Dataset
+- Algorithm: Classification
+- Features: Study Hours, Attendance Percentage, Assignments Completed
+- Libraries: NumPy, Pandas
 ## Evaluation Metric
 
 The models are evaluated using:
